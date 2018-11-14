@@ -18,4 +18,4 @@ Please see the link below for notes on each day
 [Day Two](daytwo.md)
 
 ## Outro
-Overall I really enjoyed the conference. The calibre of the speakers was very high and I gained a lot of knowledge from scheduled talks, open spaces and hallway conversations. I would definitley reccommend attending if you have not.
+Overall I really enjoyed the conference. The calibre of the speakers was very high and I gained a lot of knowledge from scheduled talks, open spaces and hallway conversations. I would definitely recommend attending if you have not.

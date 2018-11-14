@@ -5,25 +5,25 @@
 Angaza Products
 
 - Solar home
-- Sell life chngin gprducts
+- Sell life changing products
   - Solar lights
   - Solar phone chargers
 - 50% engineering
 - pay as you go
 - Key codes to unlock device
-- Create software to meter waterpumps/lights/cook tops
+- Create software to meter water pumps/lights/cook tops
 - Allow locking if payments are not met
 - Operating with dodgy networks - 2G
 
-Platform uptime is business critical
+Platform up time is business critical
 
 - households without lights
-- famers without irrigation
+- farmers without irrigation
 
 Tools
 
-- buildkite - healthchecks
-- grafana - enpointdashboard
+- buildkite - health checks
+- grafana - endpoint dashboarding
 - zendesk - ticketing system
 
 
@@ -42,13 +42,13 @@ Stage 2
 Stage 3
 
 - Support + ops teams
-- Dedicated team for roadmaps and requests
+- Dedicated team for road maps and requests
 - Team rotation allowed people to get a deeper understanding of the environment/products
 - rotation caused context switching
 
 Stage 4
 
-- 5 independatnt teams
+- 5 Independent teams
 - own what you build
 - cross team coordination
 - Still have tributes to ensure incidents are managed - mitigates shared code having no ownership
@@ -56,8 +56,8 @@ Stage 4
 Shared engineering manifesto in source control signed by all staff
 
 - Dependable is better than fashionable
-- Prefer industry standare tech
-- Get creative when neccessary
+- Prefer industry standard tech
+- Get creative when necessary
 
 ## Anthony Borton - Four lessons learnt from Microsoft's DevOps Transformation
 
@@ -107,7 +107,7 @@ Theresa recommended Damon Edwards devops podcast
 - Focusing on short term wins and not thinking about the long term strategy
 - Only focused on infra
   - became bottle neck
-  - siloed from devs
+  - silo-ed from devs
 
 - Manage expectations
 - Move outside your comfort zone
@@ -120,26 +120,26 @@ Theresa recommended Damon Edwards devops podcast
 
 - Minimum engineering standard
   - Peer review
-  - Ensure rearchitecture is not required for each interation
+  - Ensure re-architecture is not required for each iteration
   - Be proud of the work you do
 
 ### Judgemental devops
 
 - Other teams causing delays
-  - Criticism encourages stubborness
+  - Criticism encourages stubbornness
 
 - Empathy
   - Find out what is causing the delay
   - There may be valid reasons for lead times
   - motivations and constraints
-  - Stive for common ground
+  - Strive for common ground
   - Collaborate
 
 ## Open spaces
 
 ### Kubernetes + Openshift
 
-I didnt find this one particularly useful, it was a large room of people and mostly just talking about what people are doing
+I didn't find this one particularly useful, it was a large room of people and mostly just talking about what people are doing
 
 ### Infra as code
 
@@ -163,7 +163,7 @@ There was a mention of this xkcd comic https://xkcd.com/1205/
 - Make it visible
 - Use sprint limits
 - Self controlling (haha)
-- Waiting is OK (dont jump onto something else while you wait)
+- Waiting is OK (don't jump onto something else while you wait)
  - Try Mob programming
    - [A day of mob programming](https://www.youtube.com/watch?v=p_pvslS4gEI)
    - [Mob programming](https://www.youtube.com/watch?v=hJ5kdv28pgI)
@@ -177,11 +177,11 @@ There was a mention of this xkcd comic https://xkcd.com/1205/
 - behat
 - spec by example?
 - How long do you take to automate something - xkcd
-- Visulise so view improvements
+- Visualise to view improvements
 
 ### Jules Clements - Configuration Pipeline : Ruling the One Ring
 
-Use CI tools as souce of trust
+Use CI tools as source of trust
 
 ### Nigel Charman - Keep Calm and Carry On Organising
 
@@ -191,7 +191,7 @@ Sorry, no notes taken
 
 I found this talk very hard to follow.
 
-What I got from it was dont play the blame game at retros, change your language to make it less agressive.
+What I got from it was don't play the blame game at retros, change your language to make it less aggressive.
 
 A book recommended by Jessica
 
@@ -199,6 +199,6 @@ Fierce Conversations by Susan Scott
 
 https://stella.report - incident reports
 
-[Catch the apache SANFU](snafucatchers.github.io/#3_1_Catching_the_Apache_SNAFU)
+[Catch the Apache SANFU](snafucatchers.github.io/#3_1_Catching_the_Apache_SNAFU)
 
 [Ironies of automation](https://www.sciencedirect.com/science/article/pii/0005109883900468)

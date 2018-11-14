@@ -1,23 +1,23 @@
 
 # Day 1
 
-## Jeff Smith - Moving from Ops to DevOps: Centro's Journey to the Promiseland
+## Jeff Smith - Moving from Ops to DevOps: Centro's Journey to the Promised-land
 
 - Devops is Different for every company, no one solution will work for everyone.
 - Process engineering
   - augment existing processes - not new processes
 - Software engineering 
   - New processes
-  - Idendify the issues
-- Managing all environments - dont have different teams managing different environments, this leads to inconsitencies
-- Dont assume the people who write the software know the best way to run it, offer your expertise
+  - Identify the issues
+- Managing all environments - don't have different teams managing different environments, this leads to inconsistencies
+- Don't assume the people who write the software know the best way to run it, offer your expertise
 - As always there are trade offs with any changes you make
-  - *time ,flexibility, fewer interuptions* vs *control, security, approval*
-- Participate in developer rituals (standups etc)
+  - *time ,flexibility, fewer interruptions* vs *control, security, approval*
+- Participate in developer rituals (stand-ups etc)
 - Decide on metrics to track
-- Dont nanny the devs, but maintain safety
+- Don't nanny the devs, but maintain safety
 - Monitor how your operationalisation language impacts behaviour
-- Monitor the types of work youre doing
+- Monitor the types of work you're doing
 - Automate unplanned work where possible
 
 When dealing with queries from developers
@@ -35,8 +35,8 @@ In response, the following fixes were applied
 
 - Root access on dev instances
 - Devs get access to common safe tasks in prod
-- Migrated alerts to datadog (metrics, logs, alertings all in one place)
-- Share information on infrastucture via lunch and learns and pairing
+- Migrated alerts to datadog (metrics, logs, alerting all in one place)
+- Share information on infrastructure via lunch and learns and pairing
 
 
 Jeff also made some book recommendations:
@@ -47,8 +47,8 @@ by L. David Marquet
 
 ## François Conil - Monitoring that cares (the end of user based monitoring)
 
-- Dont let your customers tell you stuff is down
-- Why are we oncall? - because people use our products
+- Don't let your customers tell you stuff is down
+- Why are we on-call? - because people use our products
 - When there is a sea of red on dashboards people get used to it
 - Use the triad to solve issues Performance team + ops + devs. Together you can solve any problem
 - Only create actionable alerts
@@ -60,17 +60,17 @@ by L. David Marquet
 - Use Basic up/down monitoring - define what is up and down
 - If you can, use smart monitoring that determines root cause
 - AB testing with monitoring ie trial different alerting policies on half the stack
-- Noone likes meetings, but they are critical
+- No one likes meetings, but they are critical
 - If you need help, ask the real question with full context
 - Not everything has a price but everything has a cost
 - Turn complaints into numbers - give it a cost
 - The whole is greater than the sum of its parts
 
-**If a server crashes in a forest and noone is using it, is it down?**
+**If a server crashes in a forest and no one is using it, is it down?**
 
 ## Mark Simpson, Carlie Osborne - Transforming the Bank: pipelines not paperwork
 
-- Bankingi(ANZ) = risk averse
+- Banking(ANZ) = risk averse
 - Monolith Current state
   - Very slow release cadence, every 16 weeks
   - Middle of the night releases with an outage
@@ -81,12 +81,12 @@ by L. David Marquet
 
 12 week focus group - ended up taking 16 weeks
 
-- Didnt touch monolith code
+- Didn't touch monolith code
 - Jenkins pipelines - code commit -> -> -> prod
 - Replaced selenium with cypress.io
 - Rules engine to ensure steps have been completed before going to prod
 - Canary testing
-- Change process was horrible - convinced change team to allow them to go good as long as they use inhouse rules engine
+- Change process was horrible - convinced change team to allow them to go good as long as they use in house rules engine
 - Communicated change to everyone
 
 Results
@@ -95,7 +95,7 @@ Results
 - 95% less toil for each release
 
 - Small, not big - breaking items down into small tasks
-- 4-5 weeks to relese a feature
+- 4-5 weeks to release a feature
 - Break features down into small pieces that deliver value
 - Getting feedback and change based on feedback
 - Solution derived over time rather than perfect on day one
@@ -106,8 +106,8 @@ Results
 Ryan told a great story about a project to replace the onboard computers on New Zealand firetrucks. There was a list of requirements that had to be met. When disaster struck and the main part of the solution overheated and was no longer usable. He fell back to some very simple methods to meet the majority of the requirements. 
 
 Automation gives us the 
-- flexibily to change
-- flexibily to grow
+- flexibility to change
+- flexibility to grow
 - Solve any problem
 - Solve new problems with old technology
 - put out technical fires
@@ -159,15 +159,15 @@ A history of tools people have used in the past
 - Communication tools
 - Ask why
 - The x/y problem, talking about a solution rather than the problem
-- Shared presentaion of data
-- Shared execution methods - eat your own dogfood
-- Shared goals, shared contraints, shared priorities
+- Shared presentation of data
+- Shared execution methods - eat your own dog food
+- Shared goals, shared constraints, shared priorities
 
 ### Peter Sellars - 2018: A Build Engineers Odyssey
 
-Hire poeple that are Humble, hungry, smart
+Hire people that are Humble, hungry, smart
 
-npm ci = consitency
+npm ci = consistency
 
 ## Katrina Clokie - Testing in DevOps for Engineers
 
@@ -184,7 +184,7 @@ npm ci = consitency
 - HICCUPPS
   - history
   - image
-  - comparible products
+  - comparable products
   - claims
   - users desires
   - product
