@@ -199,6 +199,6 @@ Fierce Conversations by Susan Scott
 
 https://stella.report - incident reports
 
-[Catch the Apache SANFU](snafucatchers.github.io/#3_1_Catching_the_Apache_SNAFU)
+[Catch the Apache SANFU](https://snafucatchers.github.io/#3_1_Catching_the_Apache_SNAFU)
 
 [Ironies of automation](https://www.sciencedirect.com/science/article/pii/0005109883900468)
